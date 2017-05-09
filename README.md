@@ -8,6 +8,22 @@ When I tried to open it in older version of Unity on Mac after 6 months after cr
 
 Thanks in advance! :)
 
+### Description
+Super Sparty is a classical platform video game, which was developed in a pixel art style. Player controls the protagonist Sparty as he runs, jumps, and climbs across the game's levels. Sparty jumps and stomps on enemies to defeat them, and can collect coins, but the main goal of every level is to reach to the rose of his beloved princess.
+
+### Mechanics
+There are 9 levels implemented with the next basic mechanics:
+- running left/right
+- jump/double jump
+- coins
+- moving platforms
+- death zones
+- stationary enemy
+- enemy with fixed moves
+- chasing enemy
+- saving points
+- teleports
+
 ### Screenshots:
 #### Loading screen
 ![screenshot_1](https://cloud.githubusercontent.com/assets/26466644/25772918/39de237c-327d-11e7-9a5d-aac5d4c69e82.png)
