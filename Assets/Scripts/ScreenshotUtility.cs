@@ -89,7 +89,7 @@ public class ScreenshotUtility : MonoBehaviour
 
 			// Takes the screenshot with filename "Screenshot_WIDTHxHEIGHT_IMAGECOUNT.png"
 			// and save it in the Screenshots folder
-			Application.CaptureScreenshot("Screenshots/Screenshot_" + 
+			ScreenCapture.CaptureScreenshot("Screenshots/Screenshot_" + 
 			                              + width + "x" + height
 			                              + "_"
 			                              + m_ImageCount
