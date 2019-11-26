@@ -22,10 +22,10 @@ public class ExtraLife : MonoBehaviour {
 				Instantiate(explosion,transform.position,transform.rotation);
 			}
 
-			// do the player collect coin thing
+			// do the player collect extra life thing
 			other.gameObject.GetComponent<CharacterController2D>().CollectExtraLife(lifeValue);
 
-			// destroy the coin
+			// destroy the extra life
 			DestroyObject(this.gameObject);
 		}
 	}
